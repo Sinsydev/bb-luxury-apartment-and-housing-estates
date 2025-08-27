@@ -6,7 +6,7 @@ function AboutHero() {
   return (
     <section className="relative h-[80vh] md:h-[70vh] flex items-center">
       <img
-        src="/src/images/estate-overview.webp"
+        src="/images/estate-overview.webp"
         alt="BB Luxury Estate"
         className="absolute inset-0 w-full h-full object-cover"
         loading="eager"
@@ -87,4 +87,3 @@ function AboutHero() {
 }
 
 export default AboutHero;
-// ...existing code...
