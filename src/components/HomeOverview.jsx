@@ -7,7 +7,7 @@ function HomeOverview() {
       <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center gap-12">
         {/* Image/Illustration */}
         <motion.img
-          src="/src/images/estate-overview.webp"
+          src="/images/estate-overview.webp"
           alt="BB Luxury Estate Overview"
           className="w-full md:w-1/2 rounded-2xl shadow-lg object-cover"
           initial={{ opacity: 0, x: -60 }}

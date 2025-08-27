@@ -17,7 +17,7 @@ function ContactFooter() {
         <div>
           <Link to="/" className="inline-flex items-center gap-3">
             <img
-              src="/src/images/bb-logo.webp"
+              src="/images/bb-logo.webp"
               alt="BB Luxury Logo"
               className="h-10 w-auto"
             />

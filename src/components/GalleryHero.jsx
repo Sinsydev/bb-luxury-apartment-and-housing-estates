@@ -5,7 +5,7 @@ export default function GalleryHero() {
     <section className="relative h-[50vh] md:h-[60vh] overflow-hidden">
       {/* Background image fills the section */}
       <img
-        src="/src/images/gallery-bg.webp"
+        src="/images/gallery-bg.webp"
         alt="Gallery background"
         className="absolute inset-0 w-full h-full object-cover"
         loading="eager"

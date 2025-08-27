@@ -9,7 +9,7 @@ const testimonials = [
     role: "Resident, Skyline Penthouse",
     rating: 5,
     text: "Living here transformed our lifestyle — impeccable design, attentive management and a real sense of community.",
-    img: "/src/images/comments.webp",
+    img: "/images/comments.webp",
   },
   {
     id: "t2",
@@ -17,7 +17,7 @@ const testimonials = [
     role: "Owner, Garden Suite",
     rating: 5,
     text: "Thoughtful finishes and amenities. Every detail screams quality — highly recommended.",
-    img: "/src/images/comments.webp",
+    img: "/images/comments.webp",
   },
   {
     id: "t3",
@@ -25,7 +25,7 @@ const testimonials = [
     role: "Tenant, Urban Loft",
     rating: 5,
     text: "The location and interior finishes are exceptional. Management is responsive and professional.",
-    img: "/src/images/comments.webp",
+    img: "/images/comments.webp",
   },
   {
     id: "t4",
@@ -33,7 +33,7 @@ const testimonials = [
     role: "Family, Riverside Corner",
     rating: 5,
     text: "Spacious, secure and beautifully designed — perfect for families.",
-    img: "/src/images/comments.webp",
+    img: "/images/comments.webp",
   },
 ];
 

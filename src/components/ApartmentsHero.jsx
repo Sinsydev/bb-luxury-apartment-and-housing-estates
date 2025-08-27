@@ -22,7 +22,7 @@ function ApartmentsHero() {
       {/* Video background */}
       <video
         className="absolute inset-0 w-full h-full object-cover"
-        src="/src/videos/Apartments-bg.mp4"
+        src="/videos/Apartments-bg.mp4"
         autoPlay
         loop
         muted

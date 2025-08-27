@@ -4,7 +4,7 @@ export default function ContactHero() {
   return (
     <section className="relative h-[50vh] md:h-[60vh] overflow-hidden bg-black text-white">
       <img
-        src="/src/images/bb-logo.webp"
+        src="/images/bb-logo.webp"
         alt="Contact BB Luxury"
         className="absolute inset-0 w-full h-full object-cover opacity-90"
         loading="eager"

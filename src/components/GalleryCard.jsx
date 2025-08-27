@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 
 const images = Array.from({ length: 11 }).map((_, i) => ({
   id: i + 1,
-  src: `/src/images/gallery${i + 1}.webp`,
+  src: `/images/gallery${i + 1}.webp`,
   alt: `Gallery image ${i + 1}`,
 }));
 
